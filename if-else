@@ -24,7 +24,7 @@ public class Solution {
               }
               
         else if( 2<=n&&n<=5){
-            System.out.println("  Not Weird");
+            System.out.println("Not Weird");
         }
         else if( 6<=n&&n <=20)
         {
